@@ -1,4 +1,5 @@
 Exploring Functions and Value Range Logic - Python inRange
+---
 This repository contains code documentation, logic exercises, and practical implementations concerning value range conditioning using Python. This project focuses on understanding how to efficiently filter, validate, and categorise data based on specific minimum and maximum value constraints.
 
 📌 Project Status: ✅ Completed / Maintained
