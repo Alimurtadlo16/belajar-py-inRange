@@ -1,44 +1,51 @@
-# Eksplorasi Fungsi dan Logika Rentang Nilai - Python `inRange`
+Exploring Functions and Value Range Logic - Python inRange
+This repository contains code documentation, logic exercises, and practical implementations concerning value range conditioning using Python. This project focuses on understanding how to efficiently filter, validate, and categorise data based on specific minimum and maximum value constraints.
 
-Repositori ini berisi dokumentasi kode, latihan logika, dan implementasi praktis mengenai pengondisian rentang nilai menggunakan Python. Proyek ini fokus pada pemahaman bagaimana menyaring (*filtering*), memvalidasi, dan mengelompokkan data berdasarkan batasan nilai minimum dan maksimum tertentu secara efisien.
+📌 Project Status: ✅ Completed / Maintained
+The exercise modules and range logic implementations in this project have been completed. This repository serves as a technical portfolio record and a ready-to-use reference for future programming logic requirements.
 
----
+🚀 Syllabus & Logical Functions
+Within this repository, the development focus is directed towards several conditioning scenarios:
 
-## 📌 Status Proyek: ✅ Selesai / Maintained
-Modul latihan dan implementasi logika rentang nilai dalam proyek ini telah diselesaikan. Repositori ini berfungsi sebagai catatan portofolio teknis dan referensi siap pakai untuk kebutuhan logika pemrograman di masa mendatang.
+Input Data Validation: Ensuring that numbers or data entered by the user fall within specified safe boundaries.
 
-## 🚀 Cakupan Materi & Fungsi Logika
-Di dalam repositori ini, fokus pengembangan diarahkan pada beberapa skenario pengondisian:
-* **Validasi Data Input:** Memastikan angka atau data yang dimasukkan pengguna berada dalam batas aman yang ditentukan.
-* **Logika Komparasi Efisien:** Menggunakan operator relasional Python secara optimal untuk mengecek kondisi `min <= nilai <= max`.
-* **Studi Kasus Kontekstual:** Penerapan fungsi rentang nilai untuk klasifikasi data (seperti pengelompokkan kategori, penyaringan batas nilai, atau logika dasar penentuan parameter).
+Efficient Comparison Logic: Utilising Python relational operators optimally to check conditions such as min <= value <= max.
 
-## 🛠️ Alat & Lingkungan Pengembangan
-* **Bahasa Pemrograman:** Python 3
-* **IDE/Editor:** Visual Studio Code
-* **Version Control:** Git & GitHub
+Contextual Case Studies: Applying value range functions for data classification (such as category grouping, threshold filtering, or basic parameter determination logic).
 
-## 💻 Cara Menjalankan Kode di Komputer Lokal
+🛠️ Tools & Development Environment
+Programming Language: Python 3
 
-### Prasyarat
-Pastikan komputermu sudah terinstal Python 3. Kamu bisa mengecek status instalasinya lewat Terminal atau Command Prompt (CMD):
+IDE/Editor: Visual Studio Code
+
+Version Control: Git & GitHub
+
+💻 How to Run the Code Locally
+Prerequisites
+Ensure that your computer has Python 3 installed. You can check its installation status via the Terminal or Command Prompt (CMD):
 
 ```bash
 python --version
 ```
-# Langkah-langkah Run Kode
-Clone repositori ini ke komputer lokalmu:
+
+Steps to Run the Code
+Clone this repository to your local machine:
+
 ```bash
 git clone [https://github.com/Alimurtadlo16/belajar-py-inRange.git](https://github.com/Alimurtadlo16/belajar-py-inRange.git)
 ```
-# Buka terminal lalu masuk ke folder repositori atau direktori tempat file .py berada.
-Jalankan file utama Python menggunakan perintah:
+
+Open your terminal and navigate to the repository folder or the directory where the .py file is located.
+
+Run the main Python file using the following command:
+
 ```bash
 python main.py
 ```
-# (Sesuaikan nama file main.py dengan nama file Python yang ada di dalam repositorimu)
 
-📚 Catatan Pembelajaran
-Eksplorasi logika ini merupakan bagian dari komitmen saya untuk terus memperdalam kemampuan penyelesaian masalah (problem solving) dan menulis kode yang bersih (clean code) di semester awal perkuliahan Teknik Informatika, Universitas Darussalam Gontor.
+(Adjust the main.py file name according to the actual Python file name within your repository)
 
-Jika Anda memiliki saran mengenai optimasi penulisan kode agar lebih efisien atau ingin berdiskusi seputar pemrograman Python, silakan hubungi saya melalui LinkedIn.
+📚 Learning Notes
+This logical exploration is part of my commitment to continuously deepen my problem-solving abilities and write clean code during this first semester of my Informatics Engineering studies at University of Darussalam Gontor.
+
+If you have any suggestions regarding code optimisation for better efficiency or would like to discuss Python programming, please feel free to contact me via LinkedIn.
